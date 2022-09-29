@@ -8,9 +8,10 @@
 
 3. `Get KeyCode`
 
+### **Demo Video**
+
 <center>
-    <video width="1020" height="540" controls>
-    <source src="video/polygon.webm" type="video/webm">
-    Error Message
-    </video>
+
+[![](https://i.ytimg.com/vi/T2ddrQkDqZQ/maxresdefault.jpg)](https://youtu.be/T2ddrQkDqZQ "")
+
 </center>

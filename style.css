@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+  color: #fff;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  position: relative;
+}
+
+#eyes,
+#eyes img {
+  position: absolute;
+}
+
+button {
+  height: 50px;
+  width: 400px;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h1 {
+  color: red;
+  font-weight: bolder;
+  font-size: 54px
+}
